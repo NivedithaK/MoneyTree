@@ -40,7 +40,7 @@ This was all of our first time using XCode and Swift. It was challenging to firs
 
 # Accomplishments We're Proud Of
 
-We’re proud of all the new friendships made as we had never worked in a group together before. We’re proud of the HAND-DRAWN aesthetics on our app done by one of our group member and the fact that we learned to use XCode & Swift.
+We’re proud of all the new friendships made as we had never worked in a group together before. We’re proud of the HAND-DRAWN aesthetics on our app done by Anoushka Prasad and the fact that we learned to use XCode & Swift.
 
 # What's Next For MoneyTree
 
